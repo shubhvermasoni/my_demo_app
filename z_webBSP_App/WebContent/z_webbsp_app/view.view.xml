@@ -3,6 +3,14 @@
 	<Page title="Login Page" id="spApp">
 	<content>
 		<Label text="User Name"/>
+		<Label text="User Name"/>
+		<Label text="User Name"/>
+		<Label text="User Name"/>
 		</content>
 	</Page>
 </core:View>
+
+
+
+
+
